@@ -1,0 +1,13 @@
+{
+  "name": "jpmschuler/mwe-composerbin",
+  "authors": [
+    {
+      "name": "J. Peter M. Schuler",
+      "email": "j.peter.m.schuler@uni-due.de"
+    }
+  ],
+  "require": {},
+  "bin": [
+    "helloworld"
+  ]
+}
